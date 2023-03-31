@@ -1,0 +1,38 @@
+body{
+    background-color: #fdffbc
+}
+
+h1{
+    color: rgb(225, 156, 66);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom : 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+    
+    
+
+}
+
+h2{
+    color: black;
+   font-size: 30px;
+    
+}
+
+p{
+   color:red;
+   font-size: 20px;
+}
+
+ol{
+    list-style-type:decimal
+
+}
+
+.paragraph{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
