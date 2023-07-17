@@ -1,0 +1,66 @@
+#card{
+    background-color: red;
+    width: 500px;
+    margin:auto;
+    padding: 0px;
+    border: 2.5px;
+    border-radius: 10px;
+    border-style: solid;
+    border: color black;
+    margin-top: auto
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#box1{
+    text-align: center;
+}
+
+#box1 img{
+    width: 500px;
+    height: 350px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 7px;
+    padding: 0px;
+
+}
+
+#player{
+    font-weight: bolder;
+    text-align: center;
+}
+
+#role , #description{
+    margin-top: 10%;
+    text-align: center;
+}
+
+ol{
+    list-style: none;
+    display: inline-block;
+}
+
+nav ol li:hover {
+    color: white;
+
+}
+
+nav ol li {
+    display: inline;
+    text-align: center;
+    display: inline-flex;
+    padding: 20px 20px 20px;
+
+}
+
+#description{
+    padding: 4%;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+

@@ -1,0 +1,70 @@
+.Headers{
+    color: red;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+   
+    
+}
+
+.Headers{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+#box1 h1{
+    background-color: red;
+    height: 200px;
+    
+}
+
+#box2{
+   background-color: aquamarine;
+   
+}
+
+img{
+    float: right;
+}
+
+p{
+    font-size: large;
+}
+
+ol{
+    font-size: larger;
+}
+
+ul{
+    font-size: large;
+}
+
+#navbar{
+    
+    display:flex;
+    padding: 0%;
+    
+    
+}
+
+#spacing{
+    display: block;
+    padding: 10px 15px;
+    
+}
+
+#spacing:hover{
+    border-bottom: 1px solid black;
+}
+
+nav ol li a :hover{
+    border-bottom: 1px solid black;
+    
+}
+
+
+

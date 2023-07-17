@@ -17,13 +17,13 @@ h1{
 
 h2{
     color: black;
-   font-size: 30px;
+   font-size: 0px;
     
 }
 
 p{
    color:red;
-   font-size: 20px;
+   font-size: 15px;
 }
 
 ol{
@@ -36,3 +36,39 @@ ol{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+footer{
+    background-color: ;
+}
+
+ul{
+    list-style: none;
+}
+
+#nav-elements{
+    display: block;
+    padding: 15px 10px;
+    background-color: black;
+    border-right: 1px solid white; 
+   
+    
+    
+}   
+
+#navbar{
+    display: flex;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#nav-elements:hover{
+    background-color: blue;
+}
+
+h1{
+    border: 1px solid black;
+}
+
