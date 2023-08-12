@@ -48,11 +48,12 @@ if (array.length>2){
     doThis
 }else if(condition){
     doThis
+
 }else{
     doThis
 }*/
 
-let day ="thursday"
+let day ="TUESDAY".toLowerCase()
 
 if(day === "monday" || day === "tuesday" || day === "wednesday" || day === "thursday" || day === "friday"){
     console.log(`${day} is a weekday`)
