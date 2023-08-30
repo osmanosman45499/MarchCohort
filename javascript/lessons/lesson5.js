@@ -1,6 +1,6 @@
 console.log("hello world")
 
-for (let i=0; i<=1000; i++){
+for (let i=0; i<=100; i++){
     console.log("I will make it " + i)
 }
 
