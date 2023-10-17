@@ -1,4 +1,4 @@
-const body = document.body;
+/*const body = document.body;
 const head = document.head;
 
 body.style.backgroundColor = "blue";
@@ -35,4 +35,4 @@ container.style.borderColor = "blue"
 
 body.append(container)
 
-firstHeading.innerText = "this will be updated"
+firstHeading.innerText = "this will be updated"*/
