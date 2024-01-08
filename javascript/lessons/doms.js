@@ -1,4 +1,4 @@
-/*const body = document.body;
+/const body = document.body;
 const head = document.head;
 
 body.style.backgroundColor = "blue";
